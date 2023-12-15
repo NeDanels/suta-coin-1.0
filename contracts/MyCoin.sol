@@ -22,7 +22,7 @@ pragma solidity >=0.4.23 <0.6.0;
 import './SafeMath.sol';
 import './BaseCoin.sol';
 
-contract MyCoin is BaseCoin {
+contract SuetaCoins is BaseCoin {
 
     using SafeMath for uint256;
 
